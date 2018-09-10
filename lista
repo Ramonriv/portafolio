@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <tittle>Titulo</tittle>
+   </head>
+
+   <body>
+      <ol type = "I">
+          <li><b>Idea Principal</b></li>
+      <ol type = "A">
+         <li>Primera Idea de Apoyo</li>
+      </ol>
+
+      <ol type = "1">
+        <dd><li>Primer detalle relacionado</li></dd>
+         <dd><li>Segundo detalle relacionado</li></dd>
+         <ol type = "a">
+          <dd><li>Información adicional acerca de este detalle especifico</li></dd>
+          <dd><li>Más Información relacionada con este mismo detalle</li></dd>
+         
+         </ol>
+      </ol>
+       
+      <ol type = "A" start ="2">
+           <li>Segunda Idea de Apoyo</li>
+      </ol>
+
+      <ol type = "1">
+           <dd><li>Primer detalle relacionado</li></dd>
+           <ol type = "a">
+           <dd><li>Información adicional acerca de este detalle especifico</li></dd>
+            <dd><li>Más informaciónrelacionada con este mismo detalle</li></dd>
+            <dd><li>Más información</li></dd>
+           </ol>
+ 
+      <ol type ="1" start ="2">
+         <li>Segundo detalle relacionado</li>
+   
+      </ol>
+    </ol>
+  </ol>
+</ol>
+      
+      <ol type = "I" start = "2">   
+      <li><b>Idea Principal</li></b>
+      <ol type = "A">
+            <li>Primera idea de apoyo</li>
+      <ol type = "1">
+            <dd><li>Detalle relacionado</li></dd>
+            <dd><li>Más detalles</li></dd>
+      <ol type = "a">
+            <dd><li>Información adicional acerca de este detalle especifico</li></dd>
+            <dd><li>Más informaciónrelacionada con este mismo detalle</li></dd>
+      
+      </ol>
+             <dd><li>Más detalles</li></dd>
+      </ol>
+    </ol>
+      <ol type = "A" start = "2"> 
+             <li>Segunda idea de apoyo</li>
